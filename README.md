@@ -1,5 +1,5 @@
-# Data Analysis Projects (Yandex.Practicum)
-## <a href="https://praktikum.yandex.ru/data-analyst/" target="_blank"><b> Учебные проекты, выполненные в рамках обучения на курсе "Аналитик данных" Яндекс.Практикума (обучение по курсу продолжаю)</b></a>
+# Data Analysis Projects
+## <a href="https://praktikum.yandex.ru/data-analyst/" target="_blank"><b> Учебные проекты, выполненные в рамках обучения на курсе "Аналитик данных" Яндекс.Практикума (обучение продолжаю)</b></a>
 
 <br/><br/>
 Описание проектов:
