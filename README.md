@@ -34,7 +34,7 @@
 <td> <b>5</b></td>
 <td><a href="https://github.com/EgorKhandrik/Data-Analysis-Projects/blob/main/metrics.ipynb" target="_blank"><b>Анализ рекламных кампаний в мобильном приложении</b></td>
 <td>С помощью расчёта и анализа метрик LTV, CAC, ROI, Retention Rate и Convertion Rate необходимо было установить почему несмотря на вложения в рекламу и продвижение приложения, компания терпела убытки</td>
-<td><b>pandas</b>, <b>numpy</b>, <b>matplotlib</b>, <b>seaborn</b>, <b>предобработка данных</b>, <b>исследовательский анализ данных (EDA)</b>, <b>когортный анализ (метрики LTV, CAC, ROI, Retention Rate, Convertion Rate)</b> </td>
+<td><b>pandas</b>, <b>numpy</b>, <b>matplotlib</b>, <b>seaborn</b>, <b>предобработка данных</b>, <b>исследовательский анализ данных (EDA)</b>, <b>когортный анализ (метрики LTV, CAC, ROI, Retention Rate, Convertion Rate)</b>, <b>юнит-экономика</b> </td>
 <tr>
 <td> <b>6</b></td>
 <td><a href="https://github.com/EgorKhandrik/Data-Analysis-Projects/blob/main/a_b_test%20.ipynb" target="_blank"><b>Анализ результатов А/В теста</b></td>
