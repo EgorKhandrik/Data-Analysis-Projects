@@ -30,5 +30,15 @@
 <td><a href="https://github.com/EgorKhandrik/Data-Analysis-Projects/blob/main/gd.ipynb" target="_blank"><b>Анализ игровой индустрии</b></td>
 <td>Изучение и описание наиболее перспективных игровых платформ и жанров игр</td>
 <td><b>pandas</b>, <b>numpy</b>, <b>scipy</b<>, <b>matplotlib</b>, <b>seaborn</b>, <b>предобработка данных</b>, <b>исследовательский анализ данных (EDA)</b>, <b>статистический анализ данных</b></td>
+<tr>
+<td> <b>5</b></td>
+<td><a href="https://github.com/EgorKhandrik/Data-Analysis-Projects/blob/main/metrics.ipynb" target="_blank"><b>Анализ рекламных кампаний в мобильном приложении</b></td>
+<td>С помощью расчёта и анализа метрик LTV, CAC, ROI, Retention Rate и Convertion Rate необходимо было установить почему несмотря на вложения в рекламу и продвижение приложения, компания терпела убытки</td>
+<td><b>pandas</b>, <b>numpy</b>, <b>matplotlib</b>, <b>seaborn</b>, <b>предобработка данных</b>, <b>исследовательский анализ данных (EDA)</b>, <b>ключевые метрики (LTV, CAC, ROI, Retention Rate, Convertion Rate)</b> </td>
+<tr>
+<td> <b>6</b></td>
+<td><a href="https://github.com/EgorKhandrik/Data-Analysis-Projects/blob/main/a_b_test%20.ipynb" target="_blank"><b>Анализ результатов А/В теста</b></td>
+<td>Оценка результатов A/B теста в интернет-магазине для цели принятия решения о необходимости продолжения теста</td>
+<td><b>pandas</b>, <b>numpy</b>, <b>scipy</b<>, <b>matplotlib</b>, <b>seaborn</b>, <b>предобработка данных</b>, <b>исследовательский анализ данных (EDA)</b>, <b>статистический анализ данных</b> </td>
 </table>
 <br/><br/>
