@@ -39,6 +39,6 @@
 <td> <b>6</b></td>
 <td><a href="https://github.com/EgorKhandrik/Data-Analysis-Projects/blob/main/a_b_test%20.ipynb" target="_blank"><b>Анализ результатов А/В теста</b></td>
 <td>Оценка результатов A/B теста в интернет-магазине для цели принятия решения о необходимости продолжения теста</td>
-<td><b>pandas</b>, <b>numpy</b>, <b>scipy</b<>, <b>matplotlib</b>, <b>seaborn</b>, <b>предобработка данных</b>, <b>исследовательский анализ данных (EDA)</b>, <b>статистический анализ данных</b> </td>
+<td><b>pandas</b>, <b>numpy</b>, <b>scipy</b<>, <b>matplotlib</b>, <b>seaborn</b>, <b>предобработка данных</b>, <b>исследовательский анализ данных (EDA)</b>, <b>оценка результатов А/В теста</b> </td>
 </table>
 <br/><br/>
