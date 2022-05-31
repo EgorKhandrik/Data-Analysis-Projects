@@ -40,10 +40,12 @@
 <td><a href="https://github.com/EgorKhandrik/Data-Analysis-Projects/blob/main/a_b_test%20.ipynb" target="_blank"><b>Анализ результатов А/В теста</b></td>
 <td>Оценка результатов A/B теста в интернет-магазине для цели принятия решения о необходимости продолжения теста</td>
 <td><b>pandas</b>, <b>numpy</b>, <b>scipy</b<>, <b>matplotlib</b>, <b>seaborn</b>, <b>предобработка данных</b>, <b>исследовательский анализ данных (EDA)</b>, <b>оценка результатов А/В теста</b> </td>
+<tr>
 <td> <b>7</b></td>
 <td><a href="https://github.com/EgorKhandrik/Data-Analysis-Projects/blob/main/aab_test.ipynb" target="_blank"><b>Анализ результатов А/A/В-теста</b></td>
 <td>Анализ результатов А/А/В теста, при котором для экспериментальной группы был изменён шрифт в приложении</td>
 <td><b>pandas</b>, <b>numpy</b>, <b>scipy</b<>, <b>matplotlib</b>, <b>seaborn</b>, <b>предобработка данных</b>, <b>исследовательский анализ данных (EDA)</b> </td>
+<tr>
 <td> <b>8</b></td>
 <td><a href="https://github.com/EgorKhandrik/Data-Analysis-Projects/blob/main/churn.ipynb" target="_blank"><b>Прогнозирование вероятности оттока клиентов</b></td>
 <td>Определить признаки клиентов, влияющих на отток, и спрогнозировать веротяность оттока клиентов</td>
