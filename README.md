@@ -12,7 +12,7 @@
 <td><b>Библиотеки и навыки</b></td>
 <tr>
 <td><b>1</b></td>
-<td><a href="https://github.com/EgorKhandrik/Data-Analysis-Projects/blob/main/user%20classification.ipynb" target="_blank"><b>Сегментация юзеров на основе поведения в мобильном приложении</b></a></td>
+<td><a href="https://github.com/EgorKhandrik/Data-Analysis-Projects/blob/main/user%20classification.ipynb" target="_blank"><b>Сегментация юзеров на основе поведения в мобильном приложении объявлений</b></a></td>
 <td>Выделить сегменты пользователей и проанализировать различия в пользовании приложением.</td>
 <td><b>pandas</b>, <b>numpy</b>, <b>scipy</b<>, <b>matplotlib</b>, <b>seaborn</b>, <b>EDA</b>, <b>unit-экономика</b>, <b>кластеризация</b>, <b>k-means</b></td>
 <tr>
