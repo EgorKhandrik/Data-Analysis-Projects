@@ -14,7 +14,7 @@
 <td><b>1</b></td>
 <td><a href="https://github.com/EgorKhandrik/Data-Analysis-Projects/blob/main/user%20classification.ipynb" target="_blank"><b>Сегментация юзеров на основе поведения в мобильном приложении</b></a></td>
 <td>Выделить сегменты пользователей и проанализировать различия в пользовании приложением.</td>
-<td><b>pandas</b>, <b>pymystem3 (лемматизация)</b>, <b>предобработка данных</b></td>
+<td><b>pandas</b>, <b>numpy</b>, <b>scipy</b<>, <b>matplotlib</b>, <b>seaborn</b>, <b>EDA</b>, <b>unit-экономика</b>, <b>кластеризация</b>, <b>k-means</b></td>
 <tr>
 <td> <b>2</b></td>
 <td><a href="https://github.com/EgorKhandrik/Data-Analysis-Projects/blob/main/metrics.ipynb" target="_blank"><b>Анализ рекламных кампаний в мобильном приложении</b></td>
@@ -39,7 +39,7 @@
 <td><b>6</b></td>
 <td><a href="https://github.com/EgorKhandrik/Data-Analysis-Projects/blob/main/loan_1.ipynb" target="_blank"><b>Исследование надежности заемщиков</b></a></td>
 <td>Определить влияет ли семейное положение и количество детей клиента банка на факт погашения кредита в срок</td>
-<td><b>pandas</b>, <b>numpy</b>, <b>scipy</b<>, <b>matplotlib</b>, <b>seaborn</b>, <b>EDA</b>, <b>unit-экономика</b>, <b>кластеризация</b>, <b>k-means</b></td>
+<td><b>pandas</b>, <b>pymystem3 (лемматизация)</b>, <b>предобработка данных</b></td>
 <tr>
 <td> <b>7</b></td>
 <td><a href="https://github.com/EgorKhandrik/Data-Analysis-Projects/blob/main/real_estate.ipynb" target="_blank"><b>Исследование объявлений о продаже квартир</b></a></td>
